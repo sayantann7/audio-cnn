@@ -5,3 +5,6 @@ tqdm
 numpy
 tensorboard
 torchcodec
+pydantic
+librosa
+soundfile
